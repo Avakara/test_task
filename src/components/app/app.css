@@ -1,0 +1,31 @@
+.app {
+    margin: 0 auto;
+    max-width: 98%;
+    height: 100%;
+}
+
+.app-menu {
+    max-width: 7%;
+    height: 700px;
+}
+
+.app-accordion {
+    width: 21%;
+    min-height: 100%;
+}
+
+.app-chat {
+    width: 50%;
+    padding-left: 10px;
+    height: 650px;
+}
+
+.app-members {
+    padding-top: 25px;
+    height: 700px;
+    background-color: #474170;
+    border-radius: 5px;
+    width: 20%;
+    
+}
+

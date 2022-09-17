@@ -1,0 +1,27 @@
+.main-menu {
+    padding: 25px;
+    max-width: 5%;
+    height: 100%;
+}
+
+.main-menu .plus {
+    background-color: #5e5885;
+    border-color: #000;
+}
+
+.main-menu figure img {
+    position: relative;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+  }
+
+.main-menu figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
